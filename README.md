@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋 My name is Vinni.
+
+I'm a Full Stack Engineer engineer who loves using technology to solve complex challenges at scale. 
+
+Core technologies include JavaScript, Node, SQL, GraphQL, React, Vue, Python, and more.
+
+📫 Let's work together: vinni.hoke@gmail.com
 
 <!--
 **vinnihoke/vinnihoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
