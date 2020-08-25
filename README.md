@@ -1,4 +1,4 @@
-### 👋 My name is Vinni.
+### 👋 My name is Vinni!
 
 I'm a Full Stack Engineer engineer who loves using technology to solve complex challenges at scale. 
 
