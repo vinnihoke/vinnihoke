@@ -1,6 +1,6 @@
 ### 👋 My name is Vinni!
 
-I'm a Software Engineer at Pressed Juicery.
+Software Engineer at Pressed Juicery.
 
 Core technologies include JavaScript, Node, SQL, GraphQL, React, Vue, Python, and more.
 
