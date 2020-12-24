@@ -1,6 +1,6 @@
 ### 👋 My name is Vinni!
 
-I'm a Full Stack Engineer engineer who loves using technology to solve complex challenges at scale. 
+I'm a Software Engineer at Pressed Juicery.
 
 Core technologies include JavaScript, Node, SQL, GraphQL, React, Vue, Python, and more.
 
