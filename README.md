@@ -4,8 +4,6 @@ Software Engineer at Pressed Juicery.
 
 Core technologies include JavaScript, Node, SQL, GraphQL, React, Vue, Python, and more.
 
-📫 Let's work together: vinni.hoke@gmail.com
-
 <!--
 **vinnihoke/vinnihoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
